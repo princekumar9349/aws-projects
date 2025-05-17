@@ -1,2 +1,4 @@
-# aws-projects
-Projects from AWS Academy Cloud Foundations
+
+## 📜 Certificate
+
+![AWS Cloud Foundations Certificate](certificate.jpg)
